@@ -4,7 +4,7 @@ title: Jekyll on MacOS
 permalink: /jekyll/
 ---
 
-## How to install Jekyll on Mac:
+## How to install Jekyll on MacOS:
 
 ![MacBook auf Tisch mit Farn](https://www.galaxus.at/Files/7/6/4/9/9/9/4/6/m4mbp-6_321.png)
 
@@ -34,7 +34,7 @@ permalink: /jekyll/
 * ```cd myblog```
 * ```bundle exec jekyll serve```
 
-_myblog was renamed to "docs"_
+_"myblog" was renamed to "docs"_
 
 ## How to start Jekyll Server
 * ```cd docs```
