@@ -3,35 +3,20 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
 
-## How to install Jekyll on Mac:
+**[Home](/)** | [Jekyll](/jekyll/) | [Sunflowers](/sunflowers/)
 
-### 1. Update ruby:
-```brew install ruby```
+## School Projekt: Jekyll SG via Github Pages
 
-### 2. Update session and check if it worked:
-```source ~/.zshrc```
-```hash -r```
-```ruby --version```
-```which -a ruby```
-
-### 3. Update RubyGems:
-```gem update --system```
-
-### 4. Install Jeckyll and Bundler:
-```gem install jekyll bundler```
-```gem env home```
-```echo 'export PATH="/opt/homebrew/lib/ruby.../bin:$PATH"' >> ~/.zshrc```
-```source ~/.zshrc```
-```hash -r```
-```which jekyll```
-```jekyll -v```
-
-### 5. Creating first project:
-```jekyll new myblog```
-```cd myblog```
-```bundle exec jekyl serve```
+### Quickstart for GitHub Pages (Jekyll)
+* The page must be deployed automatically upon `git push`
+* You must have at least three distinct pages, linked to each other
+* Use syntax highlighting for at least one small code example
+* Add a local image and show it embedded in a page
+* A snazzy theme must take care of the look and feel of your page
 
 
+<img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="50%" alt="MacBook">
 ---
