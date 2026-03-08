@@ -7,4 +7,4 @@
 * You must have at least three distinct pages, linked to each other  ✓ via title
 * Use syntax highlighting for at least one small code example  ✓
 * Add a local image and show it embedded in a page  ✓
-* A snazzy theme must take care of the look and feel of your page
+* A snazzy theme must take care of the look and feel of your page ✓
