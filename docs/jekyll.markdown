@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Jekyll on MacOS
 permalink: /jekyll/
 ---
 
-[Home](/) | **[Jekyll](/jekyll/)** | [Sunflowers](/sunflowers/)
+📋 [Assignment](/) | 👾 **[Jekyll](/jekyll/)** | 🌻 [Sunflowers](/sunflowers/)
 
 <br>
 
@@ -115,4 +115,37 @@ bundle exec jekyll serve
  ```bash
  Server address: http://127.0.0.1:4000/
  ```
----
+
+<br>
+<br>
+
+## How to change the theme from minima to cayman
+1) Change the layout on every page.
+```markdown
+layout: default
+```
+2) Change the theme in _config.yml.
+```yml
+theme: jekyll-theme-cayman
+```
+3) Change the theme in Gemfile.
+```Gemfile
+gem "jekyll-theme-cayman"
+```
+4) Open project folder in Terminal
+```bash
+cd docs
+```
+5) Install the gems listed in the Gemfile
+```bash
+bundle install
+```
+6) Remove old generated fildes (_site, cache)
+```bash
+bundle exec jekyll clean
+```
+7) Build site and start local server to preview
+```bash
+bundle exec jekyll serve
+```
+--- 
