@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Sunflowers
 permalink: /sunflowers/
 ---
 
-[Home](/) | [Jekyll](/jekyll/) | **[Sunflowers](/sunflowers/)**
+📋 [Assignment](/) | 👾 [Jekyll](/jekyll/) | 🌻 **[Sunflowers](/sunflowers/)**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Centrale_nucléaire_du_Bugey_et_champ_de_tournesol.jpg" width="50%" alt="Sonnenblumen bei AKW">
 

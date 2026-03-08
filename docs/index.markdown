@@ -2,11 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
-title: Home
+layout: default
+title: Assignment
 ---
 
-**[Home](/)** | [Jekyll](/jekyll/) | [Sunflowers](/sunflowers/)
+📋 **[Assignment](/)** | 👾 [Jekyll](/jekyll/) | 🌻 [Sunflowers](/sunflowers/)
 
 ## School Projekt: Jekyll SG via Github Pages
 
