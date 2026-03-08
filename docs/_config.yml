@@ -27,7 +27,8 @@ url: "https://pusterhofer-e.github.io" # the base hostname & protocol for your s
 github_username:  pusterhofer-e
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
+# remote-theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
